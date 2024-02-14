@@ -1,0 +1,16 @@
+{
+  "name": "03_datamodeling",
+  "version": "1.0.0",
+  "description": "Mongoose Data Modeling",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  }
+}
